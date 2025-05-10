@@ -80,10 +80,21 @@
 
 ---
 
-### My GitHub Stats
-![Muneer Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muneer-8701&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Muneer-8701&show_icons=true&theme=radical" alt="Muneer Ahmad's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneer-8701&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muneer-8701&layout=compact&theme=radical)
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Muneer-8701&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Muneer Ahmad's GitHub Streak" />
+</p>
 
 ---
 
