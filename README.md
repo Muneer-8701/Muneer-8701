@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently pursuing **Masters in Statistics** from **Aligarh Muslim University**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
+- 👨‍💻 All of my projects are available at https://muneer-8701.github.io/portfolio-website/
 
 - 📫 Reach me at **muneeraliggm8701@gmail.com** 
 
